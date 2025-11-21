@@ -1,0 +1,1001 @@
+Business,City,Product/Service,Startup_Cost_PKR,Cost_per_Unit,Price_per_Unit,Marketing_Channel,Failure_Risk
+Shawarma Stand,Karachi,Shawarma Stand,35395,36,48,Flyers,0.49
+Handmade Jewelry,Multan,Handmade Jewelry,39957,77,138,Local Advertising,0.43
+Veggie Juice Stand,Faisalabad,Veggie Juice Stand,7905,94,166,Word of Mouth,0.43
+Stationery Kiosk,Faisalabad,Stationery Kiosk,18594,74,114,Word of Mouth,0.25
+Mobile Repair Shop,Lahore,Mobile Repair Shop,17733,86,137,Word of Mouth,0.76
+Fitness Trainer,Faisalabad,Fitness Trainer,44577,50,107,Flyers,0.28
+Juice Bar,Lahore,Juice Bar,41956,75,169,Social Media,0.44
+Mobile Accessories,Lahore,Mobile Accessories,43074,94,107,Word of Mouth,0.41
+Handmade Jewelry,Faisalabad,Handmade Jewelry,28770,79,157,Local Advertising,0.18
+Ice Cream Cart,Islamabad,Ice Cream Cart,49873,88,169,Flyers,0.36
+Handmade Jewelry,Lahore,Handmade Jewelry,5449,65,116,Local Advertising,0.21
+Ice Cream Cart,Karachi,Ice Cream Cart,24182,100,126,Flyers,0.79
+Fitness Trainer,Faisalabad,Fitness Trainer,42772,14,109,Flyers,0.45
+Juice Bar,Multan,Juice Bar,24358,46,137,Word of Mouth,0.71
+Coffee Cart,Karachi,Coffee Cart,12443,18,96,Flyers,0.16
+Local Snacks Delivery,Karachi,Local Snacks Delivery,15361,57,103,Flyers,0.64
+Repair Electronics,Peshawar,Repair Electronics,8968,63,100,Flyers,0.54
+Pakora Stall,Lahore,Pakora Stall,31197,15,51,Social Media,0.74
+Chai Stall,Karachi,Chai Stall,15785,77,171,Word of Mouth,0.22
+Online Tutoring,Multan,Online Tutoring,35794,100,119,Flyers,0.61
+Dahi Bhallay Stall,Lahore,Dahi Bhallay Stall,5702,85,117,Flyers,0.35
+Ice Cream Cart,Multan,Ice Cream Cart,28519,54,76,Word of Mouth,0.65
+Flower Stall,Peshawar,Flower Stall,21698,5,64,Word of Mouth,0.63
+Candle Stall,Islamabad,Candle Stall,34611,29,80,Social Media,0.72
+Stationery Kiosk,Islamabad,Stationery Kiosk,17592,64,157,Social Media,0.32
+Juice Bar,Multan,Juice Bar,47724,15,70,Word of Mouth,0.16
+Dahi Bhallay Stall,Faisalabad,Dahi Bhallay Stall,10686,96,191,Word of Mouth,0.14
+Veggie Juice Stand,Peshawar,Veggie Juice Stand,16882,65,90,Word of Mouth,0.55
+Samosa Stall,Islamabad,Samosa Stall,44155,68,86,Word of Mouth,0.52
+Flower Stall,Faisalabad,Flower Stall,5993,52,80,Word of Mouth,0.43
+Chai Stall,Karachi,Chai Stall,9586,43,116,Local Advertising,0.58
+Mobile Accessories,Multan,Mobile Accessories,47575,51,79,Word of Mouth,0.33
+Coffee Cart,Karachi,Coffee Cart,32824,87,149,Local Advertising,0.56
+Fresh Milk Seller,Multan,Fresh Milk Seller,32956,28,119,Local Advertising,0.42
+Samosa Stall,Faisalabad,Samosa Stall,9204,54,97,Local Advertising,0.64
+Small Tuition Center,Lahore,Small Tuition Center,39194,67,117,Word of Mouth,0.54
+Bakery Stall,Faisalabad,Bakery Stall,11670,69,148,Flyers,0.48
+Chai Stall,Multan,Chai Stall,45919,19,86,Flyers,0.61
+Veggie Juice Stand,Karachi,Veggie Juice Stand,44733,7,86,Social Media,0.17
+Mobile Repair Shop,Islamabad,Mobile Repair Shop,42967,11,85,Local Advertising,0.13
+Small Tuition Center,Islamabad,Small Tuition Center,6948,11,79,Word of Mouth,0.75
+Online Tutoring,Islamabad,Online Tutoring,17021,54,129,Flyers,0.4
+Street Photography,Islamabad,Street Photography,7143,20,57,Flyers,0.22
+Chai Stall,Peshawar,Chai Stall,19170,5,61,Word of Mouth,0.4
+Stationery Shop,Peshawar,Stationery Shop,36213,81,98,Word of Mouth,0.77
+Street Clothing Vendor,Multan,Street Clothing Vendor,24643,21,46,Local Advertising,0.24
+Fruit Stall,Peshawar,Fruit Stall,15530,39,79,Word of Mouth,0.28
+Flower Stall,Faisalabad,Flower Stall,19060,41,70,Word of Mouth,0.17
+Dahi Bhallay Stall,Lahore,Dahi Bhallay Stall,11495,53,75,Local Advertising,0.64
+Handmade Jewelry,Faisalabad,Handmade Jewelry,30167,63,129,Social Media,0.25
+Bakery Stall,Multan,Bakery Stall,35871,10,55,Local Advertising,0.3
+Coffee Cart,Islamabad,Coffee Cart,12748,83,130,Flyers,0.68
+Fresh Milk Seller,Multan,Fresh Milk Seller,39316,49,138,Flyers,0.47
+Chai Stall,Karachi,Chai Stall,46320,92,144,Local Advertising,0.5
+Fitness Trainer,Faisalabad,Fitness Trainer,27681,86,147,Flyers,0.28
+Chai Stall,Lahore,Chai Stall,41105,51,94,Word of Mouth,0.21
+Shawarma Stand,Islamabad,Shawarma Stand,30130,43,130,Social Media,0.25
+Fruit Smoothie Stall,Faisalabad,Fruit Smoothie Stall,35289,76,104,Word of Mouth,0.1
+Online Tutoring,Lahore,Online Tutoring,24265,45,94,Social Media,0.34
+Samosa Stall,Faisalabad,Samosa Stall,44830,52,67,Social Media,0.36
+Bakery Stall,Lahore,Bakery Stall,36401,14,109,Word of Mouth,0.71
+Chai Stall,Faisalabad,Chai Stall,25221,71,88,Local Advertising,0.39
+Fitness Trainer,Karachi,Fitness Trainer,19667,98,110,Local Advertising,0.5
+Fruit Smoothie Stall,Faisalabad,Fruit Smoothie Stall,33499,72,152,Social Media,0.43
+Fitness Trainer,Multan,Fitness Trainer,15281,72,125,Social Media,0.31
+Ice Cream Cart,Faisalabad,Ice Cream Cart,29473,18,66,Social Media,0.24
+Stationery Shop,Islamabad,Stationery Shop,39110,60,118,Social Media,0.77
+Fruit Stall,Peshawar,Fruit Stall,23543,39,56,Social Media,0.77
+Stationery Kiosk,Peshawar,Stationery Kiosk,26252,86,180,Social Media,0.59
+Mini Grocery,Multan,Mini Grocery,10383,66,91,Word of Mouth,0.58
+Online Tutoring,Multan,Online Tutoring,6250,54,146,Word of Mouth,0.19
+Fruit Smoothie Stall,Faisalabad,Fruit Smoothie Stall,10623,7,41,Word of Mouth,0.13
+Online Tutoring,Lahore,Online Tutoring,21685,81,111,Local Advertising,0.4
+Pakora Stall,Islamabad,Pakora Stall,15176,19,97,Local Advertising,0.77
+Local Snacks Delivery,Islamabad,Local Snacks Delivery,41969,31,42,Social Media,0.64
+Ice Cream Cart,Multan,Ice Cream Cart,38957,53,93,Flyers,0.7
+Tea & Snacks Stall,Karachi,Tea & Snacks Stall,17710,22,34,Flyers,0.63
+Small Tuition Center,Faisalabad,Small Tuition Center,26245,85,142,Flyers,0.69
+Mini Grocery,Faisalabad,Mini Grocery,15340,45,75,Word of Mouth,0.49
+Coffee Cart,Karachi,Coffee Cart,43094,58,110,Flyers,0.73
+Ice Cream Cart,Lahore,Ice Cream Cart,46667,70,168,Flyers,0.42
+Mobile Repair Shop,Faisalabad,Mobile Repair Shop,13228,35,120,Social Media,0.13
+Local Snacks Delivery,Peshawar,Local Snacks Delivery,20388,74,146,Local Advertising,0.74
+Candle Stall,Multan,Candle Stall,29226,37,87,Flyers,0.52
+Dahi Bhallay Stall,Islamabad,Dahi Bhallay Stall,21694,8,66,Local Advertising,0.73
+Street Clothing Vendor,Lahore,Street Clothing Vendor,17393,82,157,Word of Mouth,0.29
+Fresh Milk Seller,Peshawar,Fresh Milk Seller,13997,19,82,Social Media,0.73
+Street Photography,Karachi,Street Photography,49911,98,127,Local Advertising,0.58
+Veggie Juice Stand,Karachi,Veggie Juice Stand,10340,36,104,Local Advertising,0.58
+Street Photography,Lahore,Street Photography,45280,55,130,Word of Mouth,0.49
+Laundry Shop,Peshawar,Laundry Shop,9064,56,111,Local Advertising,0.78
+Samosa Stall,Peshawar,Samosa Stall,15906,57,133,Local Advertising,0.1
+Fruit Smoothie Stall,Karachi,Fruit Smoothie Stall,45816,96,169,Social Media,0.4
+Flower Stall,Faisalabad,Flower Stall,21348,91,157,Word of Mouth,0.58
+Stationery Kiosk,Islamabad,Stationery Kiosk,35620,82,93,Word of Mouth,0.56
+Mobile Repair Shop,Lahore,Mobile Repair Shop,46023,78,166,Local Advertising,0.67
+Fruit Stall,Faisalabad,Fruit Stall,34066,89,130,Flyers,0.43
+Handmade Jewelry,Islamabad,Handmade Jewelry,40660,6,32,Local Advertising,0.53
+Fruit Stall,Islamabad,Fruit Stall,48806,56,103,Social Media,0.5
+Mobile Accessories,Peshawar,Mobile Accessories,14387,69,92,Flyers,0.69
+Veggie Juice Stand,Lahore,Veggie Juice Stand,46663,29,107,Flyers,0.77
+Ice Cream Cart,Islamabad,Ice Cream Cart,19634,39,134,Flyers,0.48
+Ice Cream Cart,Faisalabad,Ice Cream Cart,30784,25,85,Word of Mouth,0.6
+Pakora Stall,Peshawar,Pakora Stall,10687,37,131,Local Advertising,0.4
+Fresh Milk Seller,Multan,Fresh Milk Seller,29186,53,130,Flyers,0.77
+Mobile Accessories,Peshawar,Mobile Accessories,39584,7,86,Word of Mouth,0.33
+Candle Stall,Multan,Candle Stall,36426,14,54,Flyers,0.45
+Small Tuition Center,Faisalabad,Small Tuition Center,47862,97,149,Local Advertising,0.52
+Coffee Cart,Islamabad,Coffee Cart,33686,57,97,Social Media,0.37
+Online Tutoring,Multan,Online Tutoring,25292,71,89,Social Media,0.67
+Fresh Milk Seller,Islamabad,Fresh Milk Seller,11588,90,166,Social Media,0.15
+Chai Stall,Karachi,Chai Stall,25215,72,143,Local Advertising,0.33
+Street Photography,Peshawar,Street Photography,31802,93,135,Flyers,0.16
+Candle Stall,Lahore,Candle Stall,32930,24,115,Word of Mouth,0.43
+Mobile Accessories,Islamabad,Mobile Accessories,32571,15,90,Word of Mouth,0.48
+Online Tutoring,Islamabad,Online Tutoring,14646,31,42,Flyers,0.67
+Coffee Cart,Karachi,Coffee Cart,40203,57,101,Local Advertising,0.77
+Coffee Cart,Multan,Coffee Cart,5141,58,123,Local Advertising,0.32
+Samosa Stall,Faisalabad,Samosa Stall,15875,33,72,Local Advertising,0.18
+Tea & Snacks Stall,Lahore,Tea & Snacks Stall,36887,21,37,Word of Mouth,0.23
+Repair Electronics,Islamabad,Repair Electronics,24214,35,134,Social Media,0.73
+Mini Grocery,Multan,Mini Grocery,25478,69,90,Local Advertising,0.22
+Fresh Milk Seller,Islamabad,Fresh Milk Seller,12561,95,149,Word of Mouth,0.2
+Pakora Stall,Peshawar,Pakora Stall,25951,83,152,Social Media,0.31
+Small Tuition Center,Faisalabad,Small Tuition Center,48880,96,171,Local Advertising,0.43
+Chai Stall,Lahore,Chai Stall,31436,52,86,Word of Mouth,0.67
+Samosa Stall,Islamabad,Samosa Stall,17838,44,71,Local Advertising,0.74
+Candle Stall,Islamabad,Candle Stall,40181,97,110,Word of Mouth,0.48
+Repair Electronics,Lahore,Repair Electronics,33958,46,146,Social Media,0.34
+Chai Stall,Peshawar,Chai Stall,11179,93,115,Flyers,0.44
+Laundry Shop,Karachi,Laundry Shop,9434,55,147,Word of Mouth,0.28
+Stationery Shop,Faisalabad,Stationery Shop,6849,7,82,Social Media,0.7
+Juice Bar,Faisalabad,Juice Bar,8044,35,72,Social Media,0.64
+Fruit Smoothie Stall,Karachi,Fruit Smoothie Stall,36777,54,65,Word of Mouth,0.34
+Samosa Stall,Karachi,Samosa Stall,45179,18,107,Word of Mouth,0.68
+Stationery Kiosk,Lahore,Stationery Kiosk,36255,82,104,Social Media,0.25
+Fresh Milk Seller,Islamabad,Fresh Milk Seller,48360,24,56,Flyers,0.29
+Pakora Stall,Multan,Pakora Stall,26538,39,68,Local Advertising,0.22
+Samosa Stall,Lahore,Samosa Stall,32547,78,91,Social Media,0.44
+Fresh Milk Seller,Lahore,Fresh Milk Seller,21336,55,112,Flyers,0.19
+Mobile Accessories,Lahore,Mobile Accessories,21864,17,61,Local Advertising,0.65
+Repair Electronics,Karachi,Repair Electronics,45987,43,107,Word of Mouth,0.25
+Local Snacks Delivery,Multan,Local Snacks Delivery,18733,25,68,Flyers,0.4
+Ice Cream Cart,Multan,Ice Cream Cart,14922,96,106,Social Media,0.33
+Chai Stall,Lahore,Chai Stall,8329,44,69,Word of Mouth,0.19
+Candle Stall,Peshawar,Candle Stall,37383,34,80,Flyers,0.21
+Pakora Stall,Faisalabad,Pakora Stall,39731,61,111,Flyers,0.19
+Shawarma Stand,Lahore,Shawarma Stand,17883,88,143,Word of Mouth,0.27
+Juice Bar,Lahore,Juice Bar,34098,41,130,Social Media,0.11
+Stationery Shop,Islamabad,Stationery Shop,33817,91,119,Local Advertising,0.67
+Street Clothing Vendor,Peshawar,Street Clothing Vendor,40970,44,70,Word of Mouth,0.65
+Candle Stall,Peshawar,Candle Stall,26382,96,125,Social Media,0.18
+Stationery Kiosk,Faisalabad,Stationery Kiosk,16335,55,96,Word of Mouth,0.24
+Pakora Stall,Karachi,Pakora Stall,49993,33,69,Flyers,0.38
+Laundry Shop,Faisalabad,Laundry Shop,12798,28,88,Social Media,0.56
+Repair Electronics,Peshawar,Repair Electronics,5779,44,91,Flyers,0.52
+Bakery Stall,Islamabad,Bakery Stall,30697,10,20,Flyers,0.71
+Ice Cream Cart,Lahore,Ice Cream Cart,32763,15,70,Social Media,0.8
+Online Tutoring,Multan,Online Tutoring,27641,6,74,Local Advertising,0.17
+Small Tuition Center,Karachi,Small Tuition Center,31507,94,147,Flyers,0.64
+Pakora Stall,Islamabad,Pakora Stall,6279,64,151,Flyers,0.51
+Fitness Trainer,Lahore,Fitness Trainer,11777,71,96,Social Media,0.61
+Candle Stall,Peshawar,Candle Stall,29742,36,69,Flyers,0.52
+Fruit Smoothie Stall,Multan,Fruit Smoothie Stall,17931,72,144,Social Media,0.12
+Flower Stall,Lahore,Flower Stall,24626,88,135,Social Media,0.11
+Juice Bar,Faisalabad,Juice Bar,42278,67,89,Local Advertising,0.6
+Veggie Juice Stand,Peshawar,Veggie Juice Stand,37131,43,114,Social Media,0.49
+Chai Stall,Islamabad,Chai Stall,42892,56,122,Social Media,0.68
+Bakery Stall,Lahore,Bakery Stall,20283,52,104,Flyers,0.4
+Juice Bar,Multan,Juice Bar,28498,79,133,Social Media,0.39
+Street Photography,Lahore,Street Photography,17920,13,49,Flyers,0.18
+Fruit Stall,Islamabad,Fruit Stall,19288,23,34,Social Media,0.77
+Mini Grocery,Peshawar,Mini Grocery,32194,35,78,Word of Mouth,0.72
+Laundry Shop,Lahore,Laundry Shop,28864,55,113,Social Media,0.25
+Local Snacks Delivery,Karachi,Local Snacks Delivery,34438,43,63,Flyers,0.26
+Candle Stall,Multan,Candle Stall,49878,16,90,Flyers,0.13
+Shawarma Stand,Karachi,Shawarma Stand,20290,98,163,Social Media,0.52
+Handmade Jewelry,Faisalabad,Handmade Jewelry,29857,68,163,Word of Mouth,0.79
+Local Snacks Delivery,Karachi,Local Snacks Delivery,47892,40,76,Flyers,0.54
+Veggie Juice Stand,Lahore,Veggie Juice Stand,30677,23,69,Word of Mouth,0.12
+Fresh Milk Seller,Multan,Fresh Milk Seller,13413,92,181,Word of Mouth,0.16
+Fruit Stall,Lahore,Fruit Stall,18185,58,158,Flyers,0.66
+Fruit Smoothie Stall,Lahore,Fruit Smoothie Stall,27017,12,29,Word of Mouth,0.5
+Laundry Shop,Faisalabad,Laundry Shop,33521,54,121,Flyers,0.48
+Dahi Bhallay Stall,Multan,Dahi Bhallay Stall,16965,100,168,Social Media,0.57
+Shawarma Stand,Lahore,Shawarma Stand,9940,65,78,Word of Mouth,0.16
+Fitness Trainer,Multan,Fitness Trainer,32997,85,159,Social Media,0.25
+Pakora Stall,Lahore,Pakora Stall,8351,45,97,Flyers,0.52
+Mini Grocery,Islamabad,Mini Grocery,40231,15,39,Word of Mouth,0.51
+Fruit Smoothie Stall,Lahore,Fruit Smoothie Stall,20949,78,107,Word of Mouth,0.55
+Dahi Bhallay Stall,Multan,Dahi Bhallay Stall,48216,91,184,Word of Mouth,0.64
+Handmade Jewelry,Karachi,Handmade Jewelry,15288,82,99,Social Media,0.35
+Repair Electronics,Multan,Repair Electronics,29998,94,148,Flyers,0.8
+Fresh Milk Seller,Multan,Fresh Milk Seller,48940,12,93,Social Media,0.43
+Local Snacks Delivery,Multan,Local Snacks Delivery,44089,83,103,Social Media,0.24
+Small Tuition Center,Peshawar,Small Tuition Center,42009,89,109,Local Advertising,0.17
+Tea & Snacks Stall,Karachi,Tea & Snacks Stall,20487,40,115,Social Media,0.18
+Street Photography,Karachi,Street Photography,46787,72,114,Social Media,0.8
+Pakora Stall,Lahore,Pakora Stall,10007,33,95,Word of Mouth,0.7
+Mobile Accessories,Multan,Mobile Accessories,47558,94,192,Word of Mouth,0.5
+Mobile Accessories,Islamabad,Mobile Accessories,21503,46,121,Social Media,0.22
+Flower Stall,Peshawar,Flower Stall,22023,24,48,Social Media,0.59
+Repair Electronics,Multan,Repair Electronics,15150,15,100,Word of Mouth,0.43
+Ice Cream Cart,Peshawar,Ice Cream Cart,32039,31,113,Word of Mouth,0.19
+Fresh Milk Seller,Peshawar,Fresh Milk Seller,30372,57,77,Social Media,0.36
+Coffee Cart,Islamabad,Coffee Cart,8757,86,162,Social Media,0.73
+Chai Stall,Lahore,Chai Stall,30459,99,124,Local Advertising,0.39
+Handmade Jewelry,Peshawar,Handmade Jewelry,48889,94,190,Social Media,0.63
+Fruit Stall,Peshawar,Fruit Stall,10082,75,171,Word of Mouth,0.15
+Shawarma Stand,Islamabad,Shawarma Stand,36515,23,52,Flyers,0.44
+Street Photography,Lahore,Street Photography,41741,84,127,Local Advertising,0.33
+Veggie Juice Stand,Islamabad,Veggie Juice Stand,19537,59,92,Word of Mouth,0.25
+Dahi Bhallay Stall,Faisalabad,Dahi Bhallay Stall,18317,11,41,Word of Mouth,0.38
+Stationery Shop,Multan,Stationery Shop,25600,59,106,Word of Mouth,0.52
+Flower Stall,Faisalabad,Flower Stall,32915,41,76,Social Media,0.69
+Candle Stall,Faisalabad,Candle Stall,16112,27,60,Social Media,0.39
+Online Tutoring,Faisalabad,Online Tutoring,47593,17,97,Local Advertising,0.52
+Mobile Accessories,Peshawar,Mobile Accessories,11627,44,139,Local Advertising,0.58
+Juice Bar,Multan,Juice Bar,47981,59,130,Word of Mouth,0.57
+Stationery Kiosk,Peshawar,Stationery Kiosk,19843,6,34,Word of Mouth,0.8
+Online Tutoring,Karachi,Online Tutoring,25710,60,153,Social Media,0.52
+Fresh Milk Seller,Lahore,Fresh Milk Seller,20701,55,94,Social Media,0.73
+Flower Stall,Lahore,Flower Stall,27556,98,127,Social Media,0.46
+Bakery Stall,Peshawar,Bakery Stall,20247,24,60,Flyers,0.53
+Candle Stall,Karachi,Candle Stall,24095,68,139,Local Advertising,0.22
+Tea & Snacks Stall,Islamabad,Tea & Snacks Stall,6697,53,88,Word of Mouth,0.61
+Handmade Jewelry,Peshawar,Handmade Jewelry,32635,52,152,Local Advertising,0.62
+Bakery Stall,Multan,Bakery Stall,43225,79,90,Flyers,0.37
+Chai Stall,Multan,Chai Stall,37796,87,169,Social Media,0.46
+Juice Bar,Islamabad,Juice Bar,13395,47,57,Local Advertising,0.38
+Veggie Juice Stand,Multan,Veggie Juice Stand,16682,63,108,Local Advertising,0.74
+Samosa Stall,Multan,Samosa Stall,7470,32,127,Flyers,0.53
+Stationery Shop,Lahore,Stationery Shop,28416,61,159,Social Media,0.43
+Small Tuition Center,Faisalabad,Small Tuition Center,19370,12,91,Local Advertising,0.34
+Laundry Shop,Faisalabad,Laundry Shop,38989,77,152,Social Media,0.79
+Samosa Stall,Peshawar,Samosa Stall,8275,47,62,Word of Mouth,0.4
+Fruit Smoothie Stall,Faisalabad,Fruit Smoothie Stall,17288,40,93,Local Advertising,0.29
+Pakora Stall,Lahore,Pakora Stall,40402,99,172,Word of Mouth,0.46
+Stationery Shop,Multan,Stationery Shop,10718,63,83,Flyers,0.38
+Flower Stall,Lahore,Flower Stall,19781,84,124,Flyers,0.61
+Tea & Snacks Stall,Multan,Tea & Snacks Stall,12056,36,92,Local Advertising,0.54
+Stationery Kiosk,Multan,Stationery Kiosk,8851,87,150,Social Media,0.77
+Laundry Shop,Faisalabad,Laundry Shop,17001,87,114,Social Media,0.71
+Handmade Jewelry,Faisalabad,Handmade Jewelry,34452,90,122,Social Media,0.75
+Street Clothing Vendor,Peshawar,Street Clothing Vendor,31690,29,100,Word of Mouth,0.51
+Veggie Juice Stand,Islamabad,Veggie Juice Stand,40450,57,145,Word of Mouth,0.63
+Small Tuition Center,Multan,Small Tuition Center,49327,11,66,Flyers,0.18
+Shawarma Stand,Multan,Shawarma Stand,8529,53,67,Flyers,0.75
+Tea & Snacks Stall,Karachi,Tea & Snacks Stall,21669,100,164,Social Media,0.7
+Laundry Shop,Peshawar,Laundry Shop,11790,15,66,Word of Mouth,0.73
+Laundry Shop,Peshawar,Laundry Shop,36779,74,140,Social Media,0.64
+Pakora Stall,Lahore,Pakora Stall,42517,51,119,Local Advertising,0.21
+Samosa Stall,Multan,Samosa Stall,14226,87,138,Flyers,0.6
+Coffee Cart,Islamabad,Coffee Cart,16681,82,100,Word of Mouth,0.46
+Mini Grocery,Multan,Mini Grocery,39697,65,144,Flyers,0.58
+Local Snacks Delivery,Peshawar,Local Snacks Delivery,26490,80,119,Local Advertising,0.31
+Pakora Stall,Islamabad,Pakora Stall,12616,65,121,Flyers,0.28
+Online Tutoring,Faisalabad,Online Tutoring,33106,36,100,Word of Mouth,0.65
+Samosa Stall,Islamabad,Samosa Stall,29393,15,37,Local Advertising,0.72
+Candle Stall,Islamabad,Candle Stall,40251,90,124,Local Advertising,0.65
+Mobile Accessories,Lahore,Mobile Accessories,24118,89,100,Social Media,0.58
+Mobile Repair Shop,Islamabad,Mobile Repair Shop,8752,53,137,Flyers,0.35
+Ice Cream Cart,Multan,Ice Cream Cart,27774,73,123,Local Advertising,0.53
+Tea & Snacks Stall,Multan,Tea & Snacks Stall,21114,17,94,Word of Mouth,0.56
+Fitness Trainer,Multan,Fitness Trainer,40900,13,57,Social Media,0.61
+Fresh Milk Seller,Faisalabad,Fresh Milk Seller,34202,58,151,Social Media,0.63
+Fresh Milk Seller,Islamabad,Fresh Milk Seller,11427,38,88,Word of Mouth,0.46
+Stationery Shop,Faisalabad,Stationery Shop,11930,66,164,Word of Mouth,0.14
+Online Tutoring,Karachi,Online Tutoring,49218,44,131,Social Media,0.31
+Stationery Kiosk,Islamabad,Stationery Kiosk,17854,43,137,Social Media,0.64
+Small Tuition Center,Karachi,Small Tuition Center,17845,14,74,Flyers,0.28
+Tea & Snacks Stall,Peshawar,Tea & Snacks Stall,29187,100,119,Flyers,0.57
+Repair Electronics,Islamabad,Repair Electronics,14168,7,72,Local Advertising,0.33
+Small Tuition Center,Multan,Small Tuition Center,22548,43,58,Social Media,0.32
+Candle Stall,Peshawar,Candle Stall,14718,81,133,Word of Mouth,0.28
+Online Tutoring,Faisalabad,Online Tutoring,23594,68,112,Word of Mouth,0.31
+Stationery Kiosk,Lahore,Stationery Kiosk,15514,6,58,Word of Mouth,0.52
+Shawarma Stand,Islamabad,Shawarma Stand,17145,68,124,Word of Mouth,0.56
+Handmade Jewelry,Peshawar,Handmade Jewelry,13675,14,102,Flyers,0.64
+Mobile Repair Shop,Lahore,Mobile Repair Shop,37654,48,126,Local Advertising,0.41
+Handmade Jewelry,Islamabad,Handmade Jewelry,39447,15,115,Flyers,0.76
+Ice Cream Cart,Faisalabad,Ice Cream Cart,14873,48,134,Flyers,0.54
+Coffee Cart,Faisalabad,Coffee Cart,31540,97,160,Flyers,0.44
+Ice Cream Cart,Karachi,Ice Cream Cart,22756,24,35,Flyers,0.22
+Stationery Shop,Islamabad,Stationery Shop,42579,30,116,Flyers,0.64
+Coffee Cart,Peshawar,Coffee Cart,33546,68,168,Social Media,0.69
+Stationery Kiosk,Peshawar,Stationery Kiosk,46145,57,126,Local Advertising,0.28
+Tea & Snacks Stall,Islamabad,Tea & Snacks Stall,37982,45,139,Word of Mouth,0.49
+Pakora Stall,Peshawar,Pakora Stall,34472,82,166,Word of Mouth,0.18
+Samosa Stall,Lahore,Samosa Stall,17769,26,113,Local Advertising,0.31
+Fruit Smoothie Stall,Faisalabad,Fruit Smoothie Stall,36833,60,74,Word of Mouth,0.39
+Local Snacks Delivery,Islamabad,Local Snacks Delivery,34036,33,79,Flyers,0.55
+Bakery Stall,Faisalabad,Bakery Stall,18462,10,56,Local Advertising,0.63
+Dahi Bhallay Stall,Multan,Dahi Bhallay Stall,48993,89,128,Local Advertising,0.45
+Bakery Stall,Peshawar,Bakery Stall,13781,46,136,Social Media,0.43
+Stationery Kiosk,Faisalabad,Stationery Kiosk,38901,10,69,Social Media,0.68
+Veggie Juice Stand,Islamabad,Veggie Juice Stand,33588,91,191,Social Media,0.53
+Mobile Repair Shop,Karachi,Mobile Repair Shop,8860,16,100,Word of Mouth,0.57
+Candle Stall,Islamabad,Candle Stall,46205,84,114,Flyers,0.72
+Samosa Stall,Islamabad,Samosa Stall,41120,15,55,Local Advertising,0.28
+Juice Bar,Peshawar,Juice Bar,16106,27,51,Word of Mouth,0.55
+Veggie Juice Stand,Lahore,Veggie Juice Stand,17464,60,86,Social Media,0.71
+Stationery Kiosk,Peshawar,Stationery Kiosk,31765,87,174,Local Advertising,0.3
+Candle Stall,Lahore,Candle Stall,32716,92,184,Flyers,0.69
+Fresh Milk Seller,Karachi,Fresh Milk Seller,22609,76,102,Local Advertising,0.15
+Local Snacks Delivery,Islamabad,Local Snacks Delivery,10084,53,65,Local Advertising,0.52
+Mobile Repair Shop,Islamabad,Mobile Repair Shop,25964,57,72,Flyers,0.11
+Street Photography,Islamabad,Street Photography,15190,63,114,Flyers,0.25
+Fresh Milk Seller,Multan,Fresh Milk Seller,33480,39,70,Local Advertising,0.24
+Fruit Stall,Islamabad,Fruit Stall,46601,77,135,Social Media,0.29
+Street Photography,Faisalabad,Street Photography,26559,36,92,Social Media,0.5
+Shawarma Stand,Peshawar,Shawarma Stand,46292,72,109,Word of Mouth,0.49
+Candle Stall,Peshawar,Candle Stall,16887,89,131,Social Media,0.44
+Ice Cream Cart,Lahore,Ice Cream Cart,27698,94,123,Local Advertising,0.66
+Fruit Stall,Faisalabad,Fruit Stall,38633,41,92,Flyers,0.71
+Bakery Stall,Islamabad,Bakery Stall,28278,58,120,Social Media,0.12
+Street Clothing Vendor,Multan,Street Clothing Vendor,5182,87,129,Flyers,0.73
+Dahi Bhallay Stall,Faisalabad,Dahi Bhallay Stall,6548,16,50,Local Advertising,0.13
+Fruit Stall,Karachi,Fruit Stall,49851,78,117,Flyers,0.7
+Laundry Shop,Peshawar,Laundry Shop,31508,76,106,Word of Mouth,0.43
+Laundry Shop,Faisalabad,Laundry Shop,20562,71,171,Local Advertising,0.14
+Ice Cream Cart,Lahore,Ice Cream Cart,33334,95,120,Word of Mouth,0.56
+Stationery Kiosk,Peshawar,Stationery Kiosk,17278,48,120,Word of Mouth,0.46
+Fresh Milk Seller,Peshawar,Fresh Milk Seller,17672,12,94,Word of Mouth,0.17
+Shawarma Stand,Multan,Shawarma Stand,28771,10,34,Social Media,0.25
+Shawarma Stand,Peshawar,Shawarma Stand,12931,83,148,Flyers,0.25
+Street Clothing Vendor,Peshawar,Street Clothing Vendor,23270,42,86,Flyers,0.42
+Local Snacks Delivery,Karachi,Local Snacks Delivery,22664,96,189,Local Advertising,0.31
+Repair Electronics,Karachi,Repair Electronics,16262,5,50,Word of Mouth,0.3
+Coffee Cart,Peshawar,Coffee Cart,29758,24,79,Flyers,0.3
+Coffee Cart,Karachi,Coffee Cart,17512,51,77,Local Advertising,0.8
+Chai Stall,Faisalabad,Chai Stall,15126,30,70,Local Advertising,0.4
+Handmade Jewelry,Multan,Handmade Jewelry,48786,63,114,Word of Mouth,0.79
+Handmade Jewelry,Islamabad,Handmade Jewelry,34008,34,100,Flyers,0.12
+Street Clothing Vendor,Faisalabad,Street Clothing Vendor,30608,83,142,Local Advertising,0.55
+Street Clothing Vendor,Karachi,Street Clothing Vendor,41756,70,126,Local Advertising,0.32
+Fruit Smoothie Stall,Peshawar,Fruit Smoothie Stall,44001,31,130,Local Advertising,0.8
+Fruit Stall,Karachi,Fruit Stall,26946,66,157,Word of Mouth,0.74
+Mobile Repair Shop,Karachi,Mobile Repair Shop,32375,96,117,Word of Mouth,0.39
+Tea & Snacks Stall,Faisalabad,Tea & Snacks Stall,17803,74,113,Flyers,0.34
+Veggie Juice Stand,Faisalabad,Veggie Juice Stand,44462,72,126,Word of Mouth,0.37
+Local Snacks Delivery,Faisalabad,Local Snacks Delivery,23175,91,171,Flyers,0.77
+Flower Stall,Faisalabad,Flower Stall,37467,51,109,Local Advertising,0.51
+Local Snacks Delivery,Peshawar,Local Snacks Delivery,10147,56,138,Social Media,0.57
+Street Clothing Vendor,Faisalabad,Street Clothing Vendor,13251,85,180,Local Advertising,0.17
+Online Tutoring,Peshawar,Online Tutoring,8380,43,53,Local Advertising,0.21
+Local Snacks Delivery,Lahore,Local Snacks Delivery,30324,18,45,Word of Mouth,0.37
+Veggie Juice Stand,Faisalabad,Veggie Juice Stand,6973,62,145,Word of Mouth,0.8
+Samosa Stall,Peshawar,Samosa Stall,48066,26,87,Word of Mouth,0.53
+Small Tuition Center,Islamabad,Small Tuition Center,48293,53,70,Local Advertising,0.4
+Fruit Stall,Karachi,Fruit Stall,43316,9,23,Flyers,0.19
+Handmade Jewelry,Karachi,Handmade Jewelry,6248,16,55,Flyers,0.53
+Mobile Accessories,Islamabad,Mobile Accessories,46180,39,92,Word of Mouth,0.25
+Street Clothing Vendor,Multan,Street Clothing Vendor,27682,88,160,Local Advertising,0.58
+Juice Bar,Karachi,Juice Bar,42869,10,92,Flyers,0.66
+Dahi Bhallay Stall,Faisalabad,Dahi Bhallay Stall,46335,92,116,Social Media,0.7
+Laundry Shop,Peshawar,Laundry Shop,15438,94,139,Social Media,0.72
+Street Photography,Karachi,Street Photography,30592,72,128,Flyers,0.64
+Candle Stall,Faisalabad,Candle Stall,31079,78,168,Flyers,0.67
+Samosa Stall,Lahore,Samosa Stall,44035,41,128,Social Media,0.74
+Samosa Stall,Lahore,Samosa Stall,37503,27,64,Flyers,0.49
+Laundry Shop,Lahore,Laundry Shop,40658,83,143,Word of Mouth,0.59
+Online Tutoring,Peshawar,Online Tutoring,35622,100,183,Flyers,0.63
+Fresh Milk Seller,Faisalabad,Fresh Milk Seller,11393,18,98,Local Advertising,0.61
+Fresh Milk Seller,Faisalabad,Fresh Milk Seller,30558,52,64,Local Advertising,0.75
+Ice Cream Cart,Islamabad,Ice Cream Cart,7851,46,107,Flyers,0.28
+Fresh Milk Seller,Faisalabad,Fresh Milk Seller,41451,31,51,Local Advertising,0.66
+Pakora Stall,Peshawar,Pakora Stall,16957,15,78,Social Media,0.56
+Juice Bar,Lahore,Juice Bar,35190,22,106,Flyers,0.78
+Veggie Juice Stand,Faisalabad,Veggie Juice Stand,18160,32,47,Local Advertising,0.43
+Coffee Cart,Faisalabad,Coffee Cart,12187,70,117,Local Advertising,0.29
+Dahi Bhallay Stall,Faisalabad,Dahi Bhallay Stall,29348,5,89,Flyers,0.47
+Tea & Snacks Stall,Faisalabad,Tea & Snacks Stall,40987,88,100,Social Media,0.75
+Street Photography,Faisalabad,Street Photography,15536,82,168,Flyers,0.59
+Veggie Juice Stand,Multan,Veggie Juice Stand,20315,79,149,Local Advertising,0.62
+Coffee Cart,Lahore,Coffee Cart,45294,96,134,Social Media,0.71
+Bakery Stall,Lahore,Bakery Stall,33364,71,129,Social Media,0.6
+Candle Stall,Multan,Candle Stall,33318,30,120,Social Media,0.42
+Fruit Stall,Karachi,Fruit Stall,13454,76,164,Local Advertising,0.58
+Fitness Trainer,Multan,Fitness Trainer,47157,8,52,Social Media,0.63
+Flower Stall,Lahore,Flower Stall,35437,51,99,Word of Mouth,0.72
+Pakora Stall,Multan,Pakora Stall,44875,26,91,Flyers,0.15
+Handmade Jewelry,Islamabad,Handmade Jewelry,35052,94,188,Local Advertising,0.36
+Chai Stall,Karachi,Chai Stall,38749,21,86,Word of Mouth,0.41
+Juice Bar,Peshawar,Juice Bar,20750,41,60,Local Advertising,0.12
+Stationery Kiosk,Islamabad,Stationery Kiosk,27719,42,92,Social Media,0.21
+Online Tutoring,Multan,Online Tutoring,31853,26,118,Local Advertising,0.34
+Stationery Shop,Karachi,Stationery Shop,17425,60,96,Local Advertising,0.51
+Coffee Cart,Lahore,Coffee Cart,24394,19,114,Local Advertising,0.3
+Flower Stall,Karachi,Flower Stall,20297,83,143,Flyers,0.39
+Handmade Jewelry,Karachi,Handmade Jewelry,27253,86,114,Word of Mouth,0.36
+Mobile Repair Shop,Faisalabad,Mobile Repair Shop,32901,69,107,Flyers,0.68
+Stationery Shop,Karachi,Stationery Shop,39332,25,83,Flyers,0.55
+Fitness Trainer,Lahore,Fitness Trainer,10875,70,127,Social Media,0.6
+Flower Stall,Peshawar,Flower Stall,30199,32,59,Social Media,0.64
+Mobile Repair Shop,Lahore,Mobile Repair Shop,16179,63,152,Word of Mouth,0.27
+Local Snacks Delivery,Karachi,Local Snacks Delivery,22849,94,131,Flyers,0.69
+Mini Grocery,Peshawar,Mini Grocery,29839,20,76,Word of Mouth,0.42
+Candle Stall,Multan,Candle Stall,12978,24,109,Flyers,0.24
+Repair Electronics,Islamabad,Repair Electronics,25968,30,104,Local Advertising,0.18
+Stationery Shop,Peshawar,Stationery Shop,8721,97,148,Flyers,0.68
+Online Tutoring,Lahore,Online Tutoring,17161,100,194,Flyers,0.59
+Shawarma Stand,Islamabad,Shawarma Stand,19739,23,48,Flyers,0.52
+Veggie Juice Stand,Faisalabad,Veggie Juice Stand,47078,26,82,Social Media,0.55
+Ice Cream Cart,Multan,Ice Cream Cart,39815,41,107,Local Advertising,0.63
+Local Snacks Delivery,Islamabad,Local Snacks Delivery,33584,95,126,Social Media,0.21
+Fresh Milk Seller,Multan,Fresh Milk Seller,20085,71,105,Social Media,0.51
+Dahi Bhallay Stall,Multan,Dahi Bhallay Stall,13439,14,41,Local Advertising,0.52
+Pakora Stall,Karachi,Pakora Stall,34298,58,142,Local Advertising,0.49
+Handmade Jewelry,Peshawar,Handmade Jewelry,10866,88,155,Word of Mouth,0.65
+Samosa Stall,Islamabad,Samosa Stall,29445,23,83,Local Advertising,0.63
+Handmade Jewelry,Lahore,Handmade Jewelry,33641,78,101,Local Advertising,0.43
+Small Tuition Center,Lahore,Small Tuition Center,13155,33,121,Word of Mouth,0.68
+Dahi Bhallay Stall,Islamabad,Dahi Bhallay Stall,34951,85,156,Local Advertising,0.76
+Mini Grocery,Karachi,Mini Grocery,34643,14,79,Word of Mouth,0.47
+Flower Stall,Peshawar,Flower Stall,35690,81,107,Social Media,0.6
+Fruit Stall,Islamabad,Fruit Stall,5785,43,80,Word of Mouth,0.51
+Handmade Jewelry,Islamabad,Handmade Jewelry,33579,87,184,Flyers,0.42
+Repair Electronics,Multan,Repair Electronics,42665,37,121,Local Advertising,0.13
+Handmade Jewelry,Islamabad,Handmade Jewelry,45820,25,112,Local Advertising,0.65
+Online Tutoring,Faisalabad,Online Tutoring,7531,46,58,Local Advertising,0.52
+Stationery Kiosk,Karachi,Stationery Kiosk,21604,5,25,Social Media,0.55
+Chai Stall,Karachi,Chai Stall,8449,29,119,Social Media,0.35
+Dahi Bhallay Stall,Islamabad,Dahi Bhallay Stall,44903,9,101,Word of Mouth,0.23
+Local Snacks Delivery,Multan,Local Snacks Delivery,45151,98,166,Social Media,0.45
+Chai Stall,Lahore,Chai Stall,23091,88,129,Local Advertising,0.35
+Handmade Jewelry,Islamabad,Handmade Jewelry,38816,91,113,Social Media,0.52
+Chai Stall,Multan,Chai Stall,34537,85,106,Local Advertising,0.63
+Chai Stall,Lahore,Chai Stall,31424,73,93,Flyers,0.66
+Handmade Jewelry,Lahore,Handmade Jewelry,23508,80,126,Social Media,0.26
+Shawarma Stand,Multan,Shawarma Stand,11305,30,97,Local Advertising,0.39
+Dahi Bhallay Stall,Multan,Dahi Bhallay Stall,49638,64,133,Social Media,0.19
+Coffee Cart,Karachi,Coffee Cart,46443,24,80,Social Media,0.76
+Stationery Kiosk,Lahore,Stationery Kiosk,10659,28,67,Local Advertising,0.1
+Veggie Juice Stand,Peshawar,Veggie Juice Stand,33531,98,181,Flyers,0.3
+Online Tutoring,Islamabad,Online Tutoring,15843,93,107,Flyers,0.23
+Laundry Shop,Multan,Laundry Shop,26046,51,117,Word of Mouth,0.21
+Ice Cream Cart,Peshawar,Ice Cream Cart,49070,8,34,Flyers,0.4
+Candle Stall,Islamabad,Candle Stall,24967,60,150,Social Media,0.13
+Samosa Stall,Peshawar,Samosa Stall,16958,27,113,Flyers,0.13
+Handmade Jewelry,Islamabad,Handmade Jewelry,16870,43,69,Word of Mouth,0.65
+Fruit Smoothie Stall,Multan,Fruit Smoothie Stall,37855,40,90,Social Media,0.52
+Local Snacks Delivery,Multan,Local Snacks Delivery,27379,26,51,Social Media,0.65
+Ice Cream Cart,Karachi,Ice Cream Cart,37589,86,167,Social Media,0.37
+Fitness Trainer,Lahore,Fitness Trainer,41051,82,109,Word of Mouth,0.69
+Chai Stall,Multan,Chai Stall,14919,81,142,Local Advertising,0.79
+Handmade Jewelry,Lahore,Handmade Jewelry,22648,87,168,Local Advertising,0.57
+Bakery Stall,Lahore,Bakery Stall,32538,99,149,Flyers,0.35
+Chai Stall,Karachi,Chai Stall,28188,14,110,Flyers,0.65
+Fruit Smoothie Stall,Islamabad,Fruit Smoothie Stall,18851,81,104,Flyers,0.44
+Repair Electronics,Multan,Repair Electronics,21143,59,90,Local Advertising,0.17
+Street Clothing Vendor,Karachi,Street Clothing Vendor,13894,68,90,Word of Mouth,0.15
+Fresh Milk Seller,Multan,Fresh Milk Seller,6494,90,110,Local Advertising,0.41
+Flower Stall,Lahore,Flower Stall,20809,29,52,Word of Mouth,0.32
+Candle Stall,Islamabad,Candle Stall,28355,45,112,Flyers,0.28
+Chai Stall,Lahore,Chai Stall,19687,21,120,Flyers,0.35
+Tea & Snacks Stall,Islamabad,Tea & Snacks Stall,18039,46,134,Flyers,0.66
+Stationery Kiosk,Faisalabad,Stationery Kiosk,19353,70,113,Local Advertising,0.61
+Local Snacks Delivery,Islamabad,Local Snacks Delivery,41739,15,77,Word of Mouth,0.47
+Fruit Smoothie Stall,Faisalabad,Fruit Smoothie Stall,28514,31,52,Flyers,0.25
+Veggie Juice Stand,Peshawar,Veggie Juice Stand,8214,74,108,Local Advertising,0.74
+Mini Grocery,Multan,Mini Grocery,48473,80,126,Social Media,0.7
+Stationery Kiosk,Karachi,Stationery Kiosk,30491,64,140,Word of Mouth,0.29
+Dahi Bhallay Stall,Lahore,Dahi Bhallay Stall,25353,67,165,Local Advertising,0.19
+Mobile Accessories,Peshawar,Mobile Accessories,14710,95,164,Flyers,0.68
+Mobile Repair Shop,Karachi,Mobile Repair Shop,8434,89,107,Flyers,0.62
+Pakora Stall,Multan,Pakora Stall,26372,83,110,Social Media,0.64
+Online Tutoring,Lahore,Online Tutoring,38561,12,70,Word of Mouth,0.42
+Dahi Bhallay Stall,Peshawar,Dahi Bhallay Stall,24488,20,31,Flyers,0.24
+Fitness Trainer,Islamabad,Fitness Trainer,46280,89,125,Social Media,0.18
+Repair Electronics,Multan,Repair Electronics,35429,90,102,Local Advertising,0.55
+Shawarma Stand,Multan,Shawarma Stand,33875,75,93,Word of Mouth,0.66
+Coffee Cart,Peshawar,Coffee Cart,47279,30,48,Social Media,0.58
+Tea & Snacks Stall,Multan,Tea & Snacks Stall,20305,11,43,Social Media,0.55
+Ice Cream Cart,Faisalabad,Ice Cream Cart,12450,70,88,Local Advertising,0.17
+Bakery Stall,Lahore,Bakery Stall,43814,70,94,Word of Mouth,0.17
+Mini Grocery,Islamabad,Mini Grocery,39687,55,121,Social Media,0.15
+Handmade Jewelry,Peshawar,Handmade Jewelry,43012,30,81,Social Media,0.31
+Fruit Smoothie Stall,Islamabad,Fruit Smoothie Stall,8002,6,95,Flyers,0.42
+Stationery Shop,Karachi,Stationery Shop,9220,96,174,Local Advertising,0.76
+Coffee Cart,Multan,Coffee Cart,45948,97,137,Word of Mouth,0.47
+Fresh Milk Seller,Karachi,Fresh Milk Seller,12098,57,78,Word of Mouth,0.66
+Ice Cream Cart,Peshawar,Ice Cream Cart,31722,11,97,Local Advertising,0.33
+Coffee Cart,Peshawar,Coffee Cart,26968,63,151,Word of Mouth,0.36
+Tea & Snacks Stall,Faisalabad,Tea & Snacks Stall,23752,50,96,Social Media,0.37
+Local Snacks Delivery,Lahore,Local Snacks Delivery,25734,8,58,Word of Mouth,0.2
+Coffee Cart,Peshawar,Coffee Cart,18675,72,137,Flyers,0.24
+Laundry Shop,Islamabad,Laundry Shop,11897,5,90,Social Media,0.24
+Laundry Shop,Multan,Laundry Shop,24901,100,172,Flyers,0.65
+Veggie Juice Stand,Faisalabad,Veggie Juice Stand,28334,90,163,Flyers,0.71
+Fruit Stall,Multan,Fruit Stall,49073,81,176,Flyers,0.65
+Shawarma Stand,Lahore,Shawarma Stand,48774,39,105,Flyers,0.2
+Mini Grocery,Faisalabad,Mini Grocery,36172,51,112,Flyers,0.14
+Mini Grocery,Karachi,Mini Grocery,29008,59,69,Social Media,0.48
+Handmade Jewelry,Multan,Handmade Jewelry,12493,17,61,Word of Mouth,0.19
+Fruit Stall,Islamabad,Fruit Stall,32159,13,101,Social Media,0.23
+Local Snacks Delivery,Faisalabad,Local Snacks Delivery,23146,67,118,Word of Mouth,0.67
+Mini Grocery,Karachi,Mini Grocery,48735,95,177,Social Media,0.12
+Mini Grocery,Faisalabad,Mini Grocery,46042,35,83,Word of Mouth,0.27
+Stationery Kiosk,Karachi,Stationery Kiosk,47396,8,52,Word of Mouth,0.37
+Dahi Bhallay Stall,Peshawar,Online Tutoring,35543,29,142,Word of Mouth,0.65
+Chai Stall,Islamabad,Fruit Smoothie Stall,10250,89,178,Flyers,0.68
+Stationery Kiosk,Multan,Dahi Bhallay Stall,16408,92,162,Word of Mouth,0.31
+Online Tutoring,Karachi,Fruit Stall,26618,75,21,Social Media,0.47
+Local Snacks Delivery,Islamabad,Coffee Cart,11550,30,52,Flyers,0.16
+Laundry Shop,Karachi,Fitness Trainer,21442,41,36,Flyers,0.1
+Coffee Cart,Peshawar,Juice Bar,22202,42,99,Local Advertising,0.76
+Small Tuition Center,Multan,Coffee Cart,8363,53,118,Word of Mouth,0.56
+Small Tuition Center,Lahore,Handmade Jewelry,38905,7,190,Word of Mouth,0.59
+Samosa Stall,Lahore,Chai Stall,12170,12,82,Word of Mouth,0.15
+Fruit Stall,Peshawar,Veggie Juice Stand,45183,63,132,Word of Mouth,0.51
+Handmade Jewelry,Karachi,Flower Stall,13753,88,47,Social Media,0.29
+Ice Cream Cart,Islamabad,Local Snacks Delivery,9160,68,133,Word of Mouth,0.11
+Ice Cream Cart,Lahore,Fresh Milk Seller,13939,57,152,Local Advertising,0.67
+Fresh Milk Seller,Islamabad,Stationery Kiosk,37976,46,31,Word of Mouth,0.54
+Handmade Jewelry,Lahore,Fitness Trainer,30177,77,191,Local Advertising,0.7
+Stationery Shop,Karachi,Stationery Shop,18195,42,119,Flyers,0.8
+Fruit Smoothie Stall,Faisalabad,Pakora Stall,22846,98,171,Local Advertising,0.32
+Fitness Trainer,Peshawar,Samosa Stall,24991,97,151,Social Media,0.53
+Street Clothing Vendor,Lahore,Street Clothing Vendor,42465,17,105,Local Advertising,0.75
+Chai Stall,Islamabad,Candle Stall,16897,99,148,Local Advertising,0.44
+Veggie Juice Stand,Islamabad,Fruit Stall,21509,78,32,Word of Mouth,0.67
+Online Tutoring,Karachi,Coffee Cart,34621,73,44,Local Advertising,0.72
+Chai Stall,Peshawar,Local Snacks Delivery,42330,9,194,Local Advertising,0.5
+Repair Electronics,Lahore,Coffee Cart,31349,30,123,Word of Mouth,0.43
+Fruit Smoothie Stall,Karachi,Coffee Cart,24177,84,99,Social Media,0.55
+Online Tutoring,Faisalabad,Bakery Stall,25084,86,121,Flyers,0.73
+Flower Stall,Islamabad,Ice Cream Cart,22104,58,147,Flyers,0.72
+Veggie Juice Stand,Lahore,Mobile Repair Shop,45722,37,31,Word of Mouth,0.68
+Fitness Trainer,Karachi,Fruit Smoothie Stall,46250,54,142,Local Advertising,0.7
+Chai Stall,Islamabad,Flower Stall,14109,95,90,Flyers,0.8
+Tea & Snacks Stall,Lahore,Flower Stall,23661,47,24,Word of Mouth,0.14
+Tea & Snacks Stall,Islamabad,Laundry Shop,41254,54,138,Flyers,0.78
+Repair Electronics,Karachi,Small Tuition Center,44077,7,20,Word of Mouth,0.68
+Handmade Jewelry,Multan,Tea & Snacks Stall,32662,86,79,Flyers,0.28
+Street Photography,Peshawar,Repair Electronics,45260,50,80,Flyers,0.43
+Street Clothing Vendor,Multan,Candle Stall,5238,76,153,Flyers,0.6
+Samosa Stall,Islamabad,Local Snacks Delivery,37639,58,24,Local Advertising,0.57
+Candle Stall,Islamabad,Stationery Shop,19183,40,185,Word of Mouth,0.67
+Stationery Kiosk,Peshawar,Mini Grocery,10163,43,23,Local Advertising,0.2
+Stationery Kiosk,Lahore,Online Tutoring,25843,60,44,Local Advertising,0.11
+Fruit Smoothie Stall,Peshawar,Online Tutoring,12600,33,88,Flyers,0.14
+Repair Electronics,Islamabad,Street Clothing Vendor,21973,73,68,Flyers,0.68
+Mini Grocery,Multan,Local Snacks Delivery,49041,41,24,Word of Mouth,0.14
+Ice Cream Cart,Peshawar,Street Clothing Vendor,47881,49,160,Flyers,0.48
+Stationery Shop,Multan,Handmade Jewelry,8939,43,83,Word of Mouth,0.37
+Fresh Milk Seller,Faisalabad,Fresh Milk Seller,31530,53,53,Social Media,0.49
+Coffee Cart,Lahore,Handmade Jewelry,11309,70,152,Social Media,0.14
+Coffee Cart,Karachi,Fruit Stall,40898,77,61,Word of Mouth,0.64
+Fruit Smoothie Stall,Islamabad,Ice Cream Cart,49151,79,145,Flyers,0.3
+Stationery Shop,Multan,Mini Grocery,31968,87,131,Word of Mouth,0.79
+Repair Electronics,Lahore,Fruit Smoothie Stall,10739,76,148,Social Media,0.31
+Stationery Kiosk,Multan,Samosa Stall,5637,88,27,Local Advertising,0.28
+Flower Stall,Multan,Handmade Jewelry,15188,30,39,Flyers,0.61
+Flower Stall,Peshawar,Juice Bar,19119,66,170,Word of Mouth,0.24
+Laundry Shop,Faisalabad,Laundry Shop,17112,21,74,Word of Mouth,0.24
+Coffee Cart,Islamabad,Ice Cream Cart,26536,47,158,Local Advertising,0.79
+Coffee Cart,Karachi,Online Tutoring,9791,28,120,Local Advertising,0.35
+Dahi Bhallay Stall,Lahore,Local Snacks Delivery,31825,38,119,Social Media,0.79
+Candle Stall,Multan,Flower Stall,22672,34,121,Local Advertising,0.48
+Chai Stall,Peshawar,Chai Stall,12532,7,52,Local Advertising,0.23
+Online Tutoring,Multan,Candle Stall,45595,26,122,Flyers,0.7
+Handmade Jewelry,Peshawar,Pakora Stall,35120,88,51,Social Media,0.45
+Coffee Cart,Islamabad,Local Snacks Delivery,6837,74,28,Local Advertising,0.19
+Mini Grocery,Peshawar,Mini Grocery,21616,10,187,Local Advertising,0.56
+Pakora Stall,Peshawar,Shawarma Stand,25355,65,143,Social Media,0.4
+Juice Bar,Islamabad,Online Tutoring,49847,100,39,Social Media,0.42
+Handmade Jewelry,Faisalabad,Ice Cream Cart,18127,89,75,Social Media,0.54
+Mobile Accessories,Multan,Samosa Stall,8315,5,25,Local Advertising,0.66
+Veggie Juice Stand,Lahore,Small Tuition Center,6485,75,44,Word of Mouth,0.68
+Samosa Stall,Karachi,Flower Stall,14233,97,76,Flyers,0.55
+Online Tutoring,Islamabad,Street Clothing Vendor,9495,86,172,Local Advertising,0.79
+Fresh Milk Seller,Faisalabad,Bakery Stall,28350,30,91,Word of Mouth,0.31
+Online Tutoring,Multan,Laundry Shop,29403,9,31,Social Media,0.39
+Tea & Snacks Stall,Faisalabad,Stationery Shop,33512,100,84,Flyers,0.65
+Handmade Jewelry,Karachi,Stationery Shop,37852,14,57,Social Media,0.43
+Dahi Bhallay Stall,Faisalabad,Fitness Trainer,39983,74,130,Local Advertising,0.53
+Fruit Smoothie Stall,Karachi,Mobile Accessories,47159,95,128,Local Advertising,0.71
+Mobile Accessories,Islamabad,Stationery Kiosk,5881,92,79,Word of Mouth,0.51
+Fresh Milk Seller,Islamabad,Veggie Juice Stand,13632,86,176,Local Advertising,0.32
+Fruit Stall,Faisalabad,Shawarma Stand,13333,76,126,Word of Mouth,0.71
+Mobile Accessories,Peshawar,Coffee Cart,45793,73,123,Social Media,0.66
+Shawarma Stand,Islamabad,Stationery Kiosk,46342,94,92,Flyers,0.17
+Coffee Cart,Multan,Candle Stall,5172,52,45,Word of Mouth,0.35
+Tea & Snacks Stall,Islamabad,Ice Cream Cart,42515,65,25,Flyers,0.51
+Fitness Trainer,Multan,Ice Cream Cart,19344,97,103,Social Media,0.34
+Local Snacks Delivery,Lahore,Candle Stall,46338,40,170,Local Advertising,0.36
+Local Snacks Delivery,Multan,Samosa Stall,47758,57,120,Local Advertising,0.49
+Fitness Trainer,Multan,Fitness Trainer,48349,77,194,Flyers,0.14
+Local Snacks Delivery,Islamabad,Repair Electronics,35073,86,25,Local Advertising,0.55
+Stationery Kiosk,Peshawar,Pakora Stall,25607,78,81,Flyers,0.46
+Fresh Milk Seller,Multan,Stationery Kiosk,32023,81,80,Local Advertising,0.78
+Coffee Cart,Faisalabad,Ice Cream Cart,12078,58,84,Word of Mouth,0.67
+Repair Electronics,Karachi,Stationery Kiosk,39891,84,109,Social Media,0.4
+Samosa Stall,Multan,Coffee Cart,11548,22,134,Social Media,0.77
+Laundry Shop,Faisalabad,Flower Stall,37750,61,55,Social Media,0.75
+Juice Bar,Faisalabad,Pakora Stall,42014,7,128,Word of Mouth,0.46
+Samosa Stall,Multan,Pakora Stall,33359,21,32,Word of Mouth,0.45
+Fruit Smoothie Stall,Karachi,Candle Stall,30876,28,39,Flyers,0.35
+Chai Stall,Multan,Local Snacks Delivery,27452,97,150,Social Media,0.76
+Flower Stall,Lahore,Stationery Kiosk,36091,82,164,Local Advertising,0.36
+Mobile Accessories,Faisalabad,Pakora Stall,8363,69,99,Social Media,0.75
+Fruit Stall,Karachi,Online Tutoring,25463,45,39,Word of Mouth,0.55
+Fresh Milk Seller,Multan,Small Tuition Center,45753,23,133,Word of Mouth,0.76
+Laundry Shop,Multan,Coffee Cart,19038,12,117,Word of Mouth,0.5
+Juice Bar,Lahore,Pakora Stall,15100,34,100,Social Media,0.16
+Stationery Shop,Faisalabad,Bakery Stall,48999,8,95,Social Media,0.41
+Samosa Stall,Faisalabad,Pakora Stall,27547,74,174,Social Media,0.39
+Shawarma Stand,Faisalabad,Local Snacks Delivery,21209,80,78,Flyers,0.23
+Mini Grocery,Lahore,Samosa Stall,42626,86,66,Word of Mouth,0.47
+Local Snacks Delivery,Multan,Veggie Juice Stand,48649,46,131,Local Advertising,0.24
+Bakery Stall,Faisalabad,Online Tutoring,14154,40,86,Flyers,0.44
+Chai Stall,Peshawar,Handmade Jewelry,5779,67,84,Word of Mouth,0.38
+Mini Grocery,Islamabad,Street Clothing Vendor,5772,91,34,Social Media,0.35
+Veggie Juice Stand,Multan,Stationery Shop,5171,83,120,Flyers,0.24
+Laundry Shop,Faisalabad,Local Snacks Delivery,25234,91,143,Local Advertising,0.11
+Ice Cream Cart,Lahore,Juice Bar,21362,76,122,Social Media,0.13
+Fruit Stall,Peshawar,Local Snacks Delivery,27720,77,72,Word of Mouth,0.56
+Online Tutoring,Islamabad,Samosa Stall,33433,43,116,Social Media,0.16
+Veggie Juice Stand,Karachi,Stationery Kiosk,16746,53,109,Local Advertising,0.63
+Stationery Kiosk,Peshawar,Fruit Stall,44270,77,140,Social Media,0.44
+Chai Stall,Lahore,Tea & Snacks Stall,38300,59,83,Social Media,0.21
+Veggie Juice Stand,Lahore,Handmade Jewelry,14405,40,100,Social Media,0.51
+Chai Stall,Multan,Fresh Milk Seller,47417,90,28,Flyers,0.76
+Street Clothing Vendor,Islamabad,Chai Stall,5761,12,175,Flyers,0.12
+Fresh Milk Seller,Islamabad,Ice Cream Cart,6430,32,44,Social Media,0.41
+Ice Cream Cart,Multan,Juice Bar,15407,43,174,Word of Mouth,0.45
+Chai Stall,Karachi,Flower Stall,12447,76,113,Word of Mouth,0.12
+Fruit Smoothie Stall,Multan,Small Tuition Center,39814,81,116,Local Advertising,0.28
+Handmade Jewelry,Islamabad,Samosa Stall,5760,27,114,Flyers,0.57
+Fruit Stall,Faisalabad,Online Tutoring,44393,61,106,Flyers,0.7
+Pakora Stall,Faisalabad,Local Snacks Delivery,8946,75,49,Social Media,0.71
+Juice Bar,Peshawar,Mini Grocery,47665,47,57,Social Media,0.15
+Handmade Jewelry,Islamabad,Local Snacks Delivery,23691,81,92,Local Advertising,0.4
+Samosa Stall,Peshawar,Online Tutoring,49698,5,150,Flyers,0.4
+Handmade Jewelry,Peshawar,Laundry Shop,45666,99,177,Word of Mouth,0.45
+Samosa Stall,Lahore,Fresh Milk Seller,32162,72,101,Local Advertising,0.49
+Fresh Milk Seller,Multan,Coffee Cart,16143,46,89,Local Advertising,0.41
+Samosa Stall,Peshawar,Pakora Stall,36825,98,171,Flyers,0.14
+Fruit Smoothie Stall,Karachi,Stationery Shop,35106,16,193,Social Media,0.51
+Fresh Milk Seller,Peshawar,Chai Stall,42215,70,163,Flyers,0.42
+Samosa Stall,Lahore,Online Tutoring,49295,21,156,Local Advertising,0.34
+Ice Cream Cart,Faisalabad,Stationery Kiosk,6813,56,150,Local Advertising,0.49
+Stationery Kiosk,Karachi,Repair Electronics,6321,50,64,Word of Mouth,0.54
+Shawarma Stand,Faisalabad,Pakora Stall,35076,100,120,Social Media,0.43
+Laundry Shop,Lahore,Mobile Accessories,15467,11,66,Flyers,0.38
+Fruit Smoothie Stall,Peshawar,Samosa Stall,37859,53,48,Word of Mouth,0.78
+Flower Stall,Faisalabad,Bakery Stall,31812,94,177,Local Advertising,0.78
+Candle Stall,Faisalabad,Tea & Snacks Stall,31943,12,85,Local Advertising,0.43
+Shawarma Stand,Multan,Fresh Milk Seller,28147,62,54,Local Advertising,0.57
+Dahi Bhallay Stall,Islamabad,Pakora Stall,6189,49,167,Flyers,0.52
+Juice Bar,Multan,Dahi Bhallay Stall,24643,45,148,Local Advertising,0.33
+Ice Cream Cart,Karachi,Candle Stall,36392,40,157,Word of Mouth,0.73
+Handmade Jewelry,Lahore,Bakery Stall,7450,77,193,Social Media,0.61
+Coffee Cart,Multan,Small Tuition Center,27201,80,27,Word of Mouth,0.28
+Chai Stall,Lahore,Pakora Stall,48733,42,70,Social Media,0.62
+Laundry Shop,Islamabad,Mobile Accessories,31792,86,133,Social Media,0.51
+Juice Bar,Multan,Juice Bar,36657,79,119,Word of Mouth,0.23
+Street Photography,Peshawar,Dahi Bhallay Stall,48212,96,132,Local Advertising,0.24
+Repair Electronics,Peshawar,Small Tuition Center,37320,11,103,Flyers,0.3
+Online Tutoring,Lahore,Fresh Milk Seller,21252,71,130,Flyers,0.79
+Ice Cream Cart,Peshawar,Bakery Stall,31975,27,44,Flyers,0.52
+Chai Stall,Faisalabad,Small Tuition Center,21494,62,50,Local Advertising,0.67
+Handmade Jewelry,Faisalabad,Fresh Milk Seller,24046,90,27,Word of Mouth,0.21
+Candle Stall,Peshawar,Mobile Repair Shop,37839,41,192,Social Media,0.73
+Online Tutoring,Peshawar,Ice Cream Cart,34206,5,44,Word of Mouth,0.38
+Small Tuition Center,Islamabad,Veggie Juice Stand,20542,77,191,Word of Mouth,0.76
+Fresh Milk Seller,Peshawar,Samosa Stall,9538,98,43,Local Advertising,0.51
+Dahi Bhallay Stall,Peshawar,Ice Cream Cart,13057,17,190,Local Advertising,0.31
+Mini Grocery,Karachi,Fresh Milk Seller,5601,48,60,Social Media,0.3
+Tea & Snacks Stall,Islamabad,Stationery Kiosk,23137,39,122,Flyers,0.48
+Mobile Repair Shop,Lahore,Street Photography,18759,36,127,Social Media,0.76
+Flower Stall,Peshawar,Stationery Kiosk,30895,43,87,Flyers,0.64
+Ice Cream Cart,Peshawar,Dahi Bhallay Stall,9647,40,42,Local Advertising,0.69
+Shawarma Stand,Islamabad,Coffee Cart,33018,40,187,Word of Mouth,0.32
+Online Tutoring,Peshawar,Ice Cream Cart,24391,88,115,Local Advertising,0.3
+Ice Cream Cart,Peshawar,Pakora Stall,13597,46,70,Social Media,0.3
+Laundry Shop,Peshawar,Fruit Smoothie Stall,12987,75,155,Flyers,0.25
+Chai Stall,Faisalabad,Juice Bar,10586,49,129,Word of Mouth,0.31
+Dahi Bhallay Stall,Peshawar,Handmade Jewelry,35179,28,143,Social Media,0.76
+Ice Cream Cart,Peshawar,Laundry Shop,33175,91,140,Word of Mouth,0.47
+Shawarma Stand,Multan,Online Tutoring,18935,39,97,Word of Mouth,0.37
+Chai Stall,Multan,Local Snacks Delivery,5713,24,69,Social Media,0.47
+Mobile Repair Shop,Islamabad,Samosa Stall,16717,49,21,Word of Mouth,0.53
+Handmade Jewelry,Lahore,Fruit Smoothie Stall,8858,100,142,Social Media,0.49
+Chai Stall,Islamabad,Fitness Trainer,21445,58,28,Word of Mouth,0.37
+Fruit Stall,Karachi,Street Clothing Vendor,17623,36,55,Social Media,0.46
+Online Tutoring,Islamabad,Mini Grocery,42478,31,36,Flyers,0.63
+Online Tutoring,Islamabad,Street Photography,26962,34,145,Social Media,0.17
+Samosa Stall,Islamabad,Stationery Shop,30819,75,22,Local Advertising,0.47
+Local Snacks Delivery,Multan,Local Snacks Delivery,7377,54,28,Social Media,0.71
+Pakora Stall,Islamabad,Shawarma Stand,16976,39,135,Social Media,0.37
+Repair Electronics,Karachi,Stationery Kiosk,23164,54,55,Flyers,0.34
+Repair Electronics,Lahore,Samosa Stall,43898,41,162,Word of Mouth,0.38
+Fresh Milk Seller,Peshawar,Street Clothing Vendor,38129,53,61,Flyers,0.3
+Tea & Snacks Stall,Faisalabad,Pakora Stall,21256,99,192,Local Advertising,0.11
+Pakora Stall,Karachi,Mobile Repair Shop,20057,68,53,Flyers,0.28
+Bakery Stall,Lahore,Fresh Milk Seller,35698,59,53,Social Media,0.5
+Fresh Milk Seller,Islamabad,Repair Electronics,7744,57,143,Local Advertising,0.32
+Handmade Jewelry,Peshawar,Online Tutoring,44609,58,183,Flyers,0.38
+Coffee Cart,Faisalabad,Fruit Stall,36623,71,102,Flyers,0.23
+Ice Cream Cart,Lahore,Tea & Snacks Stall,33881,31,122,Local Advertising,0.32
+Stationery Shop,Faisalabad,Street Photography,41347,59,154,Word of Mouth,0.51
+Bakery Stall,Islamabad,Flower Stall,8303,5,136,Local Advertising,0.6
+Fresh Milk Seller,Multan,Fresh Milk Seller,49743,14,80,Flyers,0.45
+Stationery Shop,Islamabad,Pakora Stall,25082,75,147,Flyers,0.69
+Small Tuition Center,Islamabad,Dahi Bhallay Stall,29167,73,33,Social Media,0.49
+Fruit Stall,Faisalabad,Flower Stall,35015,18,58,Word of Mouth,0.35
+Stationery Kiosk,Faisalabad,Flower Stall,31317,80,169,Word of Mouth,0.41
+Candle Stall,Peshawar,Stationery Shop,20317,80,185,Local Advertising,0.75
+Stationery Kiosk,Peshawar,Candle Stall,39167,29,57,Word of Mouth,0.41
+Chai Stall,Lahore,Handmade Jewelry,46913,21,115,Word of Mouth,0.7
+Ice Cream Cart,Lahore,Juice Bar,22225,88,48,Word of Mouth,0.52
+Street Photography,Faisalabad,Ice Cream Cart,36774,87,176,Flyers,0.43
+Fruit Stall,Lahore,Flower Stall,25585,99,143,Social Media,0.21
+Fitness Trainer,Peshawar,Shawarma Stand,14572,12,182,Word of Mouth,0.7
+Local Snacks Delivery,Islamabad,Pakora Stall,13163,17,44,Word of Mouth,0.72
+Stationery Kiosk,Peshawar,Local Snacks Delivery,44172,24,136,Flyers,0.33
+Shawarma Stand,Islamabad,Fruit Stall,42048,16,87,Social Media,0.64
+Stationery Shop,Peshawar,Mobile Accessories,49361,46,121,Word of Mouth,0.12
+Small Tuition Center,Karachi,Veggie Juice Stand,37165,46,118,Word of Mouth,0.21
+Mini Grocery,Peshawar,Stationery Kiosk,27369,32,57,Social Media,0.57
+Mini Grocery,Faisalabad,Small Tuition Center,6297,27,108,Word of Mouth,0.14
+Stationery Kiosk,Karachi,Repair Electronics,28964,35,101,Word of Mouth,0.36
+Veggie Juice Stand,Lahore,Chai Stall,46435,100,152,Word of Mouth,0.26
+Online Tutoring,Karachi,Tea & Snacks Stall,13563,21,159,Word of Mouth,0.32
+Laundry Shop,Karachi,Handmade Jewelry,44212,46,82,Flyers,0.48
+Chai Stall,Lahore,Fitness Trainer,43255,64,168,Social Media,0.43
+Mobile Repair Shop,Karachi,Stationery Shop,48054,68,145,Social Media,0.1
+Dahi Bhallay Stall,Lahore,Veggie Juice Stand,24020,47,177,Social Media,0.61
+Street Photography,Karachi,Candle Stall,29973,16,167,Flyers,0.55
+Flower Stall,Faisalabad,Tea & Snacks Stall,45693,93,138,Word of Mouth,0.31
+Stationery Kiosk,Multan,Coffee Cart,49143,12,142,Word of Mouth,0.52
+Candle Stall,Lahore,Chai Stall,40984,56,178,Local Advertising,0.21
+Street Photography,Multan,Chai Stall,45208,24,67,Local Advertising,0.6
+Handmade Jewelry,Karachi,Ice Cream Cart,17862,6,184,Social Media,0.51
+Fruit Stall,Peshawar,Mini Grocery,30254,31,65,Local Advertising,0.19
+Flower Stall,Faisalabad,Tea & Snacks Stall,10359,45,166,Social Media,0.49
+Stationery Shop,Islamabad,Ice Cream Cart,8561,37,148,Word of Mouth,0.35
+Small Tuition Center,Islamabad,Stationery Shop,13028,15,186,Social Media,0.65
+Veggie Juice Stand,Karachi,Street Clothing Vendor,25303,35,146,Social Media,0.27
+Pakora Stall,Multan,Tea & Snacks Stall,46644,38,88,Social Media,0.27
+Street Clothing Vendor,Islamabad,Candle Stall,10988,61,168,Social Media,0.79
+Fresh Milk Seller,Multan,Stationery Kiosk,43866,79,164,Word of Mouth,0.66
+Mobile Repair Shop,Lahore,Juice Bar,27609,33,129,Word of Mouth,0.31
+Ice Cream Cart,Peshawar,Mobile Repair Shop,46382,47,173,Social Media,0.5
+Chai Stall,Karachi,Veggie Juice Stand,7405,82,127,Social Media,0.19
+Mini Grocery,Peshawar,Pakora Stall,46021,36,44,Social Media,0.11
+Flower Stall,Peshawar,Online Tutoring,21493,75,194,Social Media,0.76
+Flower Stall,Faisalabad,Local Snacks Delivery,37784,75,38,Local Advertising,0.14
+Candle Stall,Karachi,Fruit Smoothie Stall,47361,59,179,Local Advertising,0.52
+Ice Cream Cart,Islamabad,Fresh Milk Seller,11529,83,121,Social Media,0.1
+Mobile Accessories,Faisalabad,Online Tutoring,41747,36,29,Flyers,0.58
+Handmade Jewelry,Peshawar,Flower Stall,42211,90,138,Word of Mouth,0.54
+Pakora Stall,Karachi,Street Clothing Vendor,35822,19,56,Word of Mouth,0.41
+Fruit Smoothie Stall,Lahore,Stationery Kiosk,49900,97,85,Word of Mouth,0.42
+Repair Electronics,Peshawar,Repair Electronics,9382,22,88,Local Advertising,0.34
+Local Snacks Delivery,Lahore,Chai Stall,24357,90,58,Local Advertising,0.56
+Ice Cream Cart,Karachi,Shawarma Stand,22662,21,136,Word of Mouth,0.51
+Mobile Repair Shop,Karachi,Chai Stall,27953,14,93,Social Media,0.62
+Repair Electronics,Multan,Ice Cream Cart,48142,34,122,Social Media,0.12
+Bakery Stall,Karachi,Fresh Milk Seller,30204,62,44,Social Media,0.4
+Shawarma Stand,Multan,Coffee Cart,7991,60,79,Flyers,0.29
+Fitness Trainer,Islamabad,Shawarma Stand,42523,42,192,Local Advertising,0.2
+Dahi Bhallay Stall,Multan,Stationery Kiosk,12130,13,43,Flyers,0.71
+Online Tutoring,Peshawar,Coffee Cart,16119,37,58,Flyers,0.38
+Candle Stall,Multan,Shawarma Stand,13890,7,150,Flyers,0.45
+Veggie Juice Stand,Islamabad,Local Snacks Delivery,45600,84,163,Flyers,0.46
+Handmade Jewelry,Karachi,Stationery Kiosk,47828,84,63,Flyers,0.25
+Handmade Jewelry,Faisalabad,Handmade Jewelry,36633,14,119,Social Media,0.39
+Shawarma Stand,Faisalabad,Dahi Bhallay Stall,19156,92,194,Flyers,0.6
+Pakora Stall,Islamabad,Candle Stall,9475,18,185,Social Media,0.69
+Fruit Stall,Multan,Handmade Jewelry,45693,18,111,Social Media,0.14
+Small Tuition Center,Peshawar,Pakora Stall,7285,88,110,Flyers,0.43
+Fruit Smoothie Stall,Faisalabad,Flower Stall,14460,45,24,Word of Mouth,0.42
+Mobile Accessories,Islamabad,Candle Stall,47257,49,38,Local Advertising,0.39
+Chai Stall,Islamabad,Coffee Cart,15233,18,80,Local Advertising,0.3
+Bakery Stall,Multan,Ice Cream Cart,47351,87,130,Social Media,0.55
+Candle Stall,Islamabad,Candle Stall,34328,18,116,Local Advertising,0.61
+Samosa Stall,Islamabad,Stationery Kiosk,15065,74,30,Word of Mouth,0.69
+Street Clothing Vendor,Faisalabad,Handmade Jewelry,24110,13,180,Local Advertising,0.26
+Stationery Kiosk,Islamabad,Fitness Trainer,44566,100,63,Local Advertising,0.73
+Fitness Trainer,Multan,Online Tutoring,32634,46,87,Word of Mouth,0.77
+Mobile Repair Shop,Lahore,Fruit Stall,46149,88,117,Word of Mouth,0.77
+Flower Stall,Faisalabad,Bakery Stall,23818,44,96,Social Media,0.72
+Street Photography,Peshawar,Flower Stall,28903,80,146,Word of Mouth,0.23
+Samosa Stall,Islamabad,Street Clothing Vendor,18960,60,96,Word of Mouth,0.4
+Local Snacks Delivery,Islamabad,Fresh Milk Seller,18012,92,39,Social Media,0.19
+Ice Cream Cart,Lahore,Pakora Stall,26843,96,161,Social Media,0.36
+Flower Stall,Faisalabad,Dahi Bhallay Stall,41412,20,142,Flyers,0.54
+Pakora Stall,Islamabad,Juice Bar,37885,96,143,Flyers,0.49
+Fruit Stall,Karachi,Chai Stall,32861,27,135,Social Media,0.28
+Chai Stall,Islamabad,Tea & Snacks Stall,9087,41,43,Word of Mouth,0.41
+Fruit Stall,Faisalabad,Pakora Stall,22446,40,144,Word of Mouth,0.38
+Stationery Kiosk,Karachi,Online Tutoring,32321,38,177,Social Media,0.53
+Fruit Stall,Peshawar,Chai Stall,23612,70,172,Flyers,0.76
+Local Snacks Delivery,Faisalabad,Shawarma Stand,30074,59,42,Social Media,0.18
+Chai Stall,Multan,Handmade Jewelry,26747,93,38,Local Advertising,0.45
+Mobile Accessories,Multan,Mini Grocery,27887,100,155,Flyers,0.39
+Handmade Jewelry,Karachi,Small Tuition Center,48017,87,52,Flyers,0.15
+Handmade Jewelry,Faisalabad,Small Tuition Center,13720,64,155,Flyers,0.55
+Stationery Kiosk,Multan,Dahi Bhallay Stall,12524,90,29,Social Media,0.63
+Mobile Accessories,Islamabad,Handmade Jewelry,8415,45,179,Social Media,0.43
+Coffee Cart,Lahore,Fruit Stall,37056,42,120,Word of Mouth,0.17
+Online Tutoring,Lahore,Mobile Accessories,33241,81,167,Local Advertising,0.41
+Samosa Stall,Lahore,Handmade Jewelry,10959,52,151,Word of Mouth,0.63
+Mini Grocery,Multan,Pakora Stall,25616,90,84,Flyers,0.48
+Samosa Stall,Faisalabad,Mobile Accessories,14665,62,140,Flyers,0.65
+Street Clothing Vendor,Faisalabad,Mini Grocery,22888,82,85,Social Media,0.58
+Mini Grocery,Karachi,Fruit Smoothie Stall,12844,94,104,Local Advertising,0.68
+Fruit Smoothie Stall,Multan,Samosa Stall,23606,27,189,Local Advertising,0.64
+Fitness Trainer,Lahore,Online Tutoring,13926,51,182,Social Media,0.63
+Fresh Milk Seller,Multan,Small Tuition Center,7271,94,165,Social Media,0.23
+Ice Cream Cart,Lahore,Online Tutoring,49741,62,95,Word of Mouth,0.25
+Mobile Accessories,Multan,Juice Bar,49336,44,144,Word of Mouth,0.68
+Ice Cream Cart,Lahore,Bakery Stall,18941,70,161,Local Advertising,0.38
+Local Snacks Delivery,Multan,Laundry Shop,6733,14,188,Social Media,0.69
+Chai Stall,Faisalabad,Laundry Shop,21010,78,148,Local Advertising,0.64
+Online Tutoring,Multan,Local Snacks Delivery,43848,84,107,Local Advertising,0.64
+Mobile Accessories,Faisalabad,Laundry Shop,42883,81,145,Social Media,0.45
+Ice Cream Cart,Multan,Ice Cream Cart,28858,66,108,Word of Mouth,0.24
+Shawarma Stand,Karachi,Samosa Stall,43725,57,157,Flyers,0.54
+Shawarma Stand,Islamabad,Stationery Kiosk,47420,51,107,Flyers,0.54
+Stationery Shop,Faisalabad,Samosa Stall,42389,48,177,Flyers,0.67
+Ice Cream Cart,Lahore,Ice Cream Cart,25599,28,30,Local Advertising,0.14
+Dahi Bhallay Stall,Islamabad,Bakery Stall,22071,72,122,Word of Mouth,0.28
+Ice Cream Cart,Multan,Mini Grocery,20212,10,169,Local Advertising,0.66
+Dahi Bhallay Stall,Karachi,Mini Grocery,19761,21,158,Word of Mouth,0.19
+Coffee Cart,Islamabad,Chai Stall,25407,29,83,Flyers,0.74
+Juice Bar,Multan,Local Snacks Delivery,31132,50,66,Social Media,0.54
+Ice Cream Cart,Multan,Online Tutoring,22839,28,77,Local Advertising,0.43
+Stationery Kiosk,Islamabad,Samosa Stall,18977,19,123,Word of Mouth,0.41
+Local Snacks Delivery,Karachi,Bakery Stall,34279,41,62,Flyers,0.33
+Chai Stall,Peshawar,Pakora Stall,19272,73,141,Flyers,0.27
+Coffee Cart,Lahore,Mobile Repair Shop,25578,100,151,Word of Mouth,0.36
+Coffee Cart,Peshawar,Repair Electronics,20720,81,120,Social Media,0.74
+Online Tutoring,Multan,Flower Stall,8797,11,38,Word of Mouth,0.47
+Tea & Snacks Stall,Karachi,Stationery Kiosk,17365,72,90,Flyers,0.37
+Shawarma Stand,Peshawar,Laundry Shop,32047,44,39,Social Media,0.45
+Coffee Cart,Faisalabad,Samosa Stall,19665,65,120,Flyers,0.27
+Online Tutoring,Karachi,Small Tuition Center,39640,46,152,Word of Mouth,0.77
+Online Tutoring,Islamabad,Shawarma Stand,37863,72,100,Social Media,0.44
+Samosa Stall,Faisalabad,Candle Stall,17631,81,164,Local Advertising,0.16
+Samosa Stall,Faisalabad,Tea & Snacks Stall,37013,47,72,Local Advertising,0.75
+Repair Electronics,Peshawar,Shawarma Stand,8921,63,174,Flyers,0.21
+Pakora Stall,Faisalabad,Coffee Cart,15993,86,165,Local Advertising,0.32
+Fruit Stall,Islamabad,Stationery Kiosk,24392,33,31,Social Media,0.23
+Candle Stall,Islamabad,Mini Grocery,25764,24,123,Local Advertising,0.74
+Small Tuition Center,Karachi,Bakery Stall,24576,40,163,Local Advertising,0.64
+Candle Stall,Faisalabad,Fresh Milk Seller,43429,16,194,Local Advertising,0.3
+Dahi Bhallay Stall,Multan,Fruit Stall,38939,56,32,Word of Mouth,0.63
+Chai Stall,Islamabad,Online Tutoring,34209,88,125,Flyers,0.16
+Fruit Smoothie Stall,Lahore,Samosa Stall,46540,35,89,Social Media,0.48
+Veggie Juice Stand,Lahore,Ice Cream Cart,14500,35,108,Local Advertising,0.62
+Handmade Jewelry,Multan,Mobile Repair Shop,27764,38,186,Word of Mouth,0.63
+Fresh Milk Seller,Peshawar,Chai Stall,29968,11,38,Flyers,0.5
+Stationery Shop,Faisalabad,Veggie Juice Stand,35869,63,163,Social Media,0.67
+Stationery Kiosk,Karachi,Stationery Shop,10539,51,70,Flyers,0.71
+Fruit Smoothie Stall,Peshawar,Ice Cream Cart,37125,82,123,Flyers,0.21
+Mini Grocery,Faisalabad,Mobile Repair Shop,7822,11,132,Local Advertising,0.54
+Chai Stall,Faisalabad,Coffee Cart,21843,7,125,Local Advertising,0.45
+Ice Cream Cart,Multan,Candle Stall,49445,9,161,Word of Mouth,0.33
+Bakery Stall,Islamabad,Stationery Shop,5582,24,164,Local Advertising,0.16
+Handmade Jewelry,Islamabad,Mobile Accessories,8964,100,51,Word of Mouth,0.53
+Repair Electronics,Lahore,Stationery Kiosk,10350,65,152,Word of Mouth,0.63
+Veggie Juice Stand,Islamabad,Dahi Bhallay Stall,18450,67,58,Word of Mouth,0.4
+Bakery Stall,Multan,Street Clothing Vendor,29148,85,160,Word of Mouth,0.51
+Mini Grocery,Peshawar,Mini Grocery,18978,92,52,Social Media,0.24
+Samosa Stall,Karachi,Juice Bar,6748,83,184,Local Advertising,0.69
+Pakora Stall,Multan,Tea & Snacks Stall,18664,6,121,Local Advertising,0.38
+Coffee Cart,Islamabad,Repair Electronics,11537,84,63,Flyers,0.56
+Handmade Jewelry,Islamabad,Juice Bar,20964,81,90,Flyers,0.17
+Stationery Shop,Islamabad,Candle Stall,34241,17,185,Word of Mouth,0.16
+Local Snacks Delivery,Multan,Handmade Jewelry,39835,40,184,Word of Mouth,0.25
+Laundry Shop,Peshawar,Dahi Bhallay Stall,6563,81,40,Word of Mouth,0.76
+Local Snacks Delivery,Lahore,Pakora Stall,46272,31,76,Local Advertising,0.28
+Dahi Bhallay Stall,Peshawar,Mini Grocery,46846,35,135,Flyers,0.52
+Fruit Smoothie Stall,Lahore,Mini Grocery,43994,12,38,Local Advertising,0.56
+Ice Cream Cart,Faisalabad,Chai Stall,38479,8,159,Social Media,0.55
+Dahi Bhallay Stall,Islamabad,Street Clothing Vendor,43497,52,193,Social Media,0.6
+Handmade Jewelry,Lahore,Coffee Cart,18942,91,83,Social Media,0.21
+Pakora Stall,Karachi,Flower Stall,45947,67,41,Word of Mouth,0.68
+Ice Cream Cart,Multan,Street Clothing Vendor,48348,11,116,Social Media,0.45
+Fresh Milk Seller,Islamabad,Candle Stall,40322,94,148,Flyers,0.36
+Street Photography,Peshawar,Fresh Milk Seller,40396,51,183,Local Advertising,0.72
+Mobile Repair Shop,Lahore,Fresh Milk Seller,14495,37,82,Flyers,0.34
+Stationery Kiosk,Faisalabad,Chai Stall,21396,49,86,Social Media,0.16
+Mobile Accessories,Lahore,Mobile Repair Shop,17975,7,29,Local Advertising,0.69
+Samosa Stall,Peshawar,Repair Electronics,17459,88,118,Word of Mouth,0.23
+Fruit Smoothie Stall,Islamabad,Coffee Cart,43021,30,153,Flyers,0.78
+Shawarma Stand,Lahore,Stationery Shop,26126,23,110,Flyers,0.3
+Fitness Trainer,Peshawar,Fresh Milk Seller,8262,8,20,Social Media,0.51
+Local Snacks Delivery,Peshawar,Street Clothing Vendor,38522,40,140,Local Advertising,0.5
+Fresh Milk Seller,Islamabad,Ice Cream Cart,41652,6,96,Local Advertising,0.12
+Veggie Juice Stand,Karachi,Local Snacks Delivery,32225,45,111,Flyers,0.2
+Handmade Jewelry,Faisalabad,Handmade Jewelry,47563,57,148,Flyers,0.27
+Street Photography,Islamabad,Mobile Repair Shop,48265,16,25,Social Media,0.18
+Mobile Repair Shop,Faisalabad,Small Tuition Center,6462,31,159,Flyers,0.76
+Stationery Kiosk,Multan,Coffee Cart,15217,19,119,Social Media,0.61
+Handmade Jewelry,Multan,Laundry Shop,18763,70,41,Flyers,0.26
+Fresh Milk Seller,Peshawar,Handmade Jewelry,37792,65,171,Social Media,0.34
+Bakery Stall,Faisalabad,Fresh Milk Seller,43851,90,170,Flyers,0.55
+Fresh Milk Seller,Peshawar,Veggie Juice Stand,10951,74,81,Social Media,0.25
+Local Snacks Delivery,Peshawar,Ice Cream Cart,49199,36,170,Local Advertising,0.71
+Handmade Jewelry,Islamabad,Candle Stall,14366,83,136,Flyers,0.46
+Samosa Stall,Multan,Chai Stall,24701,75,106,Social Media,0.52
+Fitness Trainer,Islamabad,Laundry Shop,17924,89,37,Flyers,0.66
+Juice Bar,Lahore,Laundry Shop,32833,9,130,Flyers,0.69
+Street Clothing Vendor,Islamabad,Ice Cream Cart,19707,96,135,Flyers,0.37
+Handmade Jewelry,Faisalabad,Street Photography,20133,58,131,Local Advertising,0.11
+Fruit Smoothie Stall,Peshawar,Flower Stall,34861,96,49,Social Media,0.26
+Bakery Stall,Karachi,Street Clothing Vendor,9487,99,124,Flyers,0.56
+Mobile Repair Shop,Karachi,Street Photography,47850,30,156,Local Advertising,0.63
+Mini Grocery,Karachi,Mobile Accessories,26600,22,95,Flyers,0.42
+Ice Cream Cart,Peshawar,Online Tutoring,16785,19,103,Local Advertising,0.13
+Stationery Kiosk,Multan,Small Tuition Center,48875,96,85,Word of Mouth,0.13
+Handmade Jewelry,Islamabad,Veggie Juice Stand,48683,40,88,Local Advertising,0.64
+Mobile Repair Shop,Lahore,Bakery Stall,16025,40,54,Word of Mouth,0.35
+Pakora Stall,Multan,Repair Electronics,7084,95,189,Social Media,0.24
+Street Photography,Karachi,Coffee Cart,17582,72,163,Flyers,0.45
+Veggie Juice Stand,Faisalabad,Coffee Cart,23022,41,59,Flyers,0.52
+Mobile Repair Shop,Multan,Candle Stall,28931,81,87,Local Advertising,0.5
+Samosa Stall,Peshawar,Candle Stall,42245,12,152,Word of Mouth,0.58
+Local Snacks Delivery,Faisalabad,Chai Stall,42488,32,53,Social Media,0.15
+Shawarma Stand,Lahore,Repair Electronics,7308,80,112,Social Media,0.24
+Dahi Bhallay Stall,Peshawar,Coffee Cart,30902,59,125,Local Advertising,0.55
+Flower Stall,Lahore,Tea & Snacks Stall,24335,53,136,Flyers,0.31
+Samosa Stall,Multan,Mobile Accessories,12661,73,173,Flyers,0.34
+Mini Grocery,Islamabad,Local Snacks Delivery,16500,28,87,Local Advertising,0.74
+Fruit Stall,Peshawar,Ice Cream Cart,44894,37,168,Social Media,0.73
+Small Tuition Center,Lahore,Ice Cream Cart,47891,83,128,Flyers,0.38
+Fitness Trainer,Peshawar,Dahi Bhallay Stall,9603,57,48,Flyers,0.42
+Fruit Stall,Islamabad,Fresh Milk Seller,23524,97,58,Local Advertising,0.78
+Mini Grocery,Multan,Shawarma Stand,19842,32,116,Flyers,0.16
+Stationery Kiosk,Faisalabad,Street Photography,14219,84,50,Local Advertising,0.7
+Chai Stall,Peshawar,Mobile Repair Shop,31709,95,86,Local Advertising,0.4
+Flower Stall,Faisalabad,Stationery Shop,28888,6,70,Local Advertising,0.22
+Repair Electronics,Peshawar,Fruit Stall,37478,72,52,Social Media,0.31
+Fruit Smoothie Stall,Islamabad,Online Tutoring,6438,37,55,Word of Mouth,0.12
+Fitness Trainer,Peshawar,Fitness Trainer,36235,69,65,Local Advertising,0.46
+Tea & Snacks Stall,Faisalabad,Pakora Stall,7914,12,153,Local Advertising,0.28
+Fresh Milk Seller,Peshawar,Shawarma Stand,14701,16,39,Flyers,0.78
+Ice Cream Cart,Islamabad,Fruit Smoothie Stall,24654,61,98,Social Media,0.52
+Local Snacks Delivery,Islamabad,Bakery Stall,16954,89,31,Flyers,0.35
+Chai Stall,Karachi,Pakora Stall,40819,11,129,Local Advertising,0.35
+Local Snacks Delivery,Faisalabad,Street Photography,26545,44,186,Word of Mouth,0.56
+Fresh Milk Seller,Islamabad,Chai Stall,43303,81,31,Social Media,0.78
+Coffee Cart,Lahore,Candle Stall,14341,22,39,Flyers,0.53
+Ice Cream Cart,Peshawar,Fresh Milk Seller,8583,23,105,Local Advertising,0.56
+Local Snacks Delivery,Faisalabad,Candle Stall,41419,68,146,Social Media,0.38
+Pakora Stall,Islamabad,Street Photography,25689,81,182,Word of Mouth,0.18
+Dahi Bhallay Stall,Multan,Fresh Milk Seller,28627,17,51,Social Media,0.53
+Mobile Accessories,Karachi,Mini Grocery,17115,47,116,Word of Mouth,0.32
+Chai Stall,Islamabad,Flower Stall,41459,65,87,Flyers,0.22
+Pakora Stall,Multan,Veggie Juice Stand,43836,41,104,Flyers,0.45
+Fruit Smoothie Stall,Peshawar,Flower Stall,23240,14,64,Flyers,0.57
+Handmade Jewelry,Faisalabad,Repair Electronics,9445,21,116,Local Advertising,0.42
+Tea & Snacks Stall,Lahore,Street Clothing Vendor,27128,12,52,Local Advertising,0.57
+Dahi Bhallay Stall,Karachi,Fruit Stall,11265,43,192,Word of Mouth,0.11
+Veggie Juice Stand,Peshawar,Handmade Jewelry,47155,33,128,Local Advertising,0.33
+Coffee Cart,Peshawar,Candle Stall,43912,68,28,Local Advertising,0.51
+Fruit Stall,Lahore,Chai Stall,5896,43,192,Local Advertising,0.65
+Mini Grocery,Lahore,Laundry Shop,33737,16,157,Word of Mouth,0.71
+Stationery Shop,Peshawar,Local Snacks Delivery,34797,66,68,Word of Mouth,0.34
+Coffee Cart,Faisalabad,Handmade Jewelry,17794,74,147,Social Media,0.22
+Veggie Juice Stand,Karachi,Samosa Stall,29389,16,28,Local Advertising,0.78
+Street Clothing Vendor,Peshawar,Mobile Repair Shop,18100,5,153,Flyers,0.47
+Street Photography,Lahore,Fruit Smoothie Stall,41607,10,85,Social Media,0.78
+Stationery Shop,Peshawar,Fitness Trainer,35136,25,153,Social Media,0.14
+Mobile Accessories,Peshawar,Street Photography,20486,90,24,Flyers,0.12
+Candle Stall,Peshawar,Street Photography,23700,7,167,Flyers,0.76
+Handmade Jewelry,Islamabad,Chai Stall,11725,87,54,Local Advertising,0.28
+Fruit Stall,Multan,Fruit Stall,19709,95,126,Local Advertising,0.66
+Mobile Repair Shop,Peshawar,Flower Stall,22371,94,75,Local Advertising,0.42
+Ice Cream Cart,Peshawar,Mobile Accessories,23299,66,150,Flyers,0.58
+Veggie Juice Stand,Karachi,Flower Stall,47004,37,31,Word of Mouth,0.19
+Coffee Cart,Islamabad,Ice Cream Cart,43358,29,24,Word of Mouth,0.5
+Tea & Snacks Stall,Islamabad,Pakora Stall,48996,34,47,Social Media,0.26
+Bakery Stall,Multan,Laundry Shop,26297,18,98,Flyers,0.57
+Chai Stall,Islamabad,Fresh Milk Seller,19163,85,94,Word of Mouth,0.46
+Laundry Shop,Karachi,Juice Bar,16540,5,170,Flyers,0.72
+Mobile Accessories,Faisalabad,Coffee Cart,46124,83,123,Flyers,0.8
+Juice Bar,Karachi,Stationery Kiosk,47919,30,148,Word of Mouth,0.74
+Local Snacks Delivery,Islamabad,Ice Cream Cart,43966,79,65,Flyers,0.43
+Juice Bar,Karachi,Ice Cream Cart,47990,73,40,Flyers,0.13
+Dahi Bhallay Stall,Islamabad,Fresh Milk Seller,29005,74,83,Word of Mouth,0.57
+Samosa Stall,Faisalabad,Chai Stall,10292,71,37,Social Media,0.78
+Online Tutoring,Islamabad,Stationery Kiosk,5394,18,183,Flyers,0.15
+Coffee Cart,Faisalabad,Dahi Bhallay Stall,37449,10,170,Local Advertising,0.61
+Mobile Accessories,Faisalabad,Coffee Cart,34016,91,59,Local Advertising,0.55
+Chai Stall,Peshawar,Samosa Stall,35526,74,115,Flyers,0.18
+Ice Cream Cart,Multan,Juice Bar,37581,70,171,Local Advertising,0.27
+Mobile Repair Shop,Lahore,Handmade Jewelry,25401,14,160,Flyers,0.79
+Mobile Accessories,Faisalabad,Laundry Shop,42307,57,89,Social Media,0.32
+Mobile Accessories,Karachi,Chai Stall,44890,69,158,Word of Mouth,0.63
+Juice Bar,Lahore,Repair Electronics,37403,24,60,Flyers,0.37
+Chai Stall,Peshawar,Veggie Juice Stand,39624,7,97,Social Media,0.2
+Tea & Snacks Stall,Islamabad,Street Clothing Vendor,28781,56,35,Social Media,0.22
+Samosa Stall,Lahore,Candle Stall,40306,39,76,Local Advertising,0.13
+Candle Stall,Karachi,Handmade Jewelry,45236,99,126,Flyers,0.24
